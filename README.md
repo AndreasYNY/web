@@ -1,5 +1,4 @@
 # website
 feel free to use this as a template
 
-
-[image](https://imgur.com/a/jFliwwM)
+![ss](https://i.imgur.com/4muhaMi.png)
